@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejaswinibatti
-- 👀 I’m interested in playing badmenton
+- 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning Cloud and DevOps
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
